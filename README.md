@@ -1,0 +1,3 @@
+Diffusion微调适应VTON领域
+
+对Attention模块引入梯度，通过Energy Function将梯度与原attention结合，优化每一步的生成效果
